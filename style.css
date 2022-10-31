@@ -536,9 +536,8 @@ button {
         font-size: 10px;
     }
 
-    .description{
-        width: 100vh;
-        
+    .Used{
+        gap: 80px;
     }
 
     .content span{
